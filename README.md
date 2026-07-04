@@ -1,5 +1,5 @@
 # USDA Digital Service Effectiveness Dashboard
-### Jan–June 2024 | MGMT 389 Group Project
+### Jan–June 2024 
 
 ---
 
